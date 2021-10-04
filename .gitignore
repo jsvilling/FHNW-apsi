@@ -1,6 +1,2 @@
-### Vagrant ###
-.vagrant/
-
-### Others ###
-*.DS_Store
 .idea
+/Demoenv/debian-11.0.0-amd64-netinst.iso
